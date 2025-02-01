@@ -15,7 +15,7 @@ export default function About() {
       />
 
       <section className="container mx-auto px-6 py-10 text-center bg-white">
-        <p className="text-black">Welcome to the About page. Learn more about Cryptoverse.</p>
+        <p className="text-black">Hi Welcome to the About page. Learn more about Cryptoverse.</p>
       </section>
 
       <Footer />
